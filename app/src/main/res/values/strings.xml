@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Сельский Дом</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Сашка Волкова</string>
+    <string name="nav_header_subtitle">Руководитель, Повар пансионата</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_movement">Перемещения</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="text_secondary_from">Со склада:</string>
+    <string name="text_secondary_to">На склад:</string>
+    <string name="text_secondary_cost">Сумма:</string>
+    <string name="text_goods">ТОВАРЫ</string>
+    <string name="btn_create">Провести</string>
+    <string name="text_secondary_author">Автор</string>
+    <string name="text_main_sum">Итого</string>
+    <string name="text_today">Сегодня</string>
+    <string name="text_early">Ранее</string>
+    <string name="text_login">Войдите в систему</string>
+    <string name="text_desc">Для входа используйте учетные данные countryhome.club</string>
+    <string name="text_email_layout">Логин</string>
+    <string name="text_pass_layout">Пароль</string>
+    <string name="text_reg">Еще нет аккаунта?</string>
+    <string name="btn_forgot_pass">Забыли пароль?</string>
+    <string name="btn_reg">Зарегистрируйтесь</string>
+    <string name="btn_login">Войти</string>
+    <string name="todo">TODO</string>
+    <string name="text_help_action">Помощь</string>
+</resources>

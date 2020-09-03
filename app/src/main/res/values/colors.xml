@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="color_text_number">#222223</color>
+    <color name="color_text_date">#919192</color>
+    <color name="color_text_secondary">#747475</color>
+    <color name="color_text_main">#212122</color>
+    <color name="color_divider">#DFDFE0</color>
+    <color name="color_dates">#333334</color>
+    <color name="color_text_login">#202021</color>
+    <color name="color_text_desc">#8B8B8C</color>
+    <color name="color_text_reg">#1C1C1D</color>
+    <color name="color_nav_pos">#282829</color>
+    <color name="color__logout">#FFFFFF</color>
+    <color name="color_logout">#F44336</color>
+    <color name="color_update_first">#8BC34A</color>
+    <color name="color_update_second">#03A9F4</color>
+    <color name="color_update_third">#FF9800</color>
+    <color name="color_update_fourth">#F44336</color>
+</resources>
